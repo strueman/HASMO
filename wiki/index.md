@@ -10,3 +10,8 @@ HASMO is a research project exploring compute optimization and efficiency for He
 ## Project Files
 
 - [small-model-offloading-architectural-analysis](small-model-offloading-architectural-analysis.md) — Full architectural analysis with 12 tasks across 3 tiers
+- [code-documentation-rag-plugin](code-documentation-rag-plugin.md) — Local code RAG plugin using bge-m3 + Ollama + FAISS
+
+## Active Tasks
+
+- **Code Documentation RAG Plugin** — Semantic code search via local embeddings. See [code-documentation-rag-plugin](code-documentation-rag-plugin.md)
